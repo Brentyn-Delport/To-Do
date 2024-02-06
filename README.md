@@ -33,7 +33,7 @@
 
 <ol>
 <li>Clone the repository:
-<pre><code>git clone https://your-repository-url-here.git</code></pre>
+<pre><code>git clone https://github.com/Brentyn-Delport/To-Do.git</code></pre>
 </li>
 <li>Install NPM packages for the server:
 <pre><code>cd server
@@ -62,4 +62,4 @@ npm start</code></pre>
 
 <h2>Contact</h2>
 
-<p>Your Name - @Brentyn_Delies</p>
+<p>Brentyn Delport - @Brentyn_Delies</p>
