@@ -1,0 +1,48 @@
+/* General application styles */
+.App {
+  text-align: center;
+}
+
+/* Styles for the navigation bar */
+.navbar {
+  padding: 2% !important;
+  color: bisque !important;
+}
+
+/* Additional styling for text within the navbar */
+.navbar-text {
+  margin-right: 5% !important;
+  color: aquamarine !important;
+}
+
+/* Style for links to ensure consistency in appearance */
+a {
+  color: aquamarine !important;
+}
+
+/* Styling for headings within the application */
+h2 {
+font-size: xx-large !important;
+font-weight: bolder !important;
+margin: 1% !important;
+}
+
+/* General button styling */
+button {
+  margin: 8px !important;
+}
+
+/* Styling for buttons on hover to make them more interactive */
+button:hover {
+font-weight: bolder !important;
+}
+
+/* Styles to make form labels more prominent */
+.form-label {
+  font-weight: bolder;
+}
+
+/* Adds margin to form controls for better spacing */
+.form-control {
+  margin: 5px !important;
+}
